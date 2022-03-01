@@ -42,7 +42,7 @@ This is SpamBot Of @Legend_Mr_Hacker Group- https//t.me/LEGEND_USERBOT
 
 - Click Below Deploy To Heroku
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/https://github.com/sevadigital/LEGENDSPAM
+- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/https://github.com/sevadigital/LEGENDSPAM)
 
 
 ### To Get Details Of StringSession Follow Step: 
